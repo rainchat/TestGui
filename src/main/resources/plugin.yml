@@ -1,0 +1,6 @@
+name: TestGui
+version: ${project.version}
+main: com.rainchat.testgui.TestGui
+api-version: 1.17
+authors: [ rainchat ]
+website: |
